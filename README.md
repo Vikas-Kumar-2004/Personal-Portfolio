@@ -1,20 +1,33 @@
-# VASU-SOLANKI.github.io
+# 💻 Web Developer Portfolio
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://vasu-solanki.github.io/My-Portfolio/).
+Welcome to my personal portfolio website! I'm a passionate web developer focused on building responsive, user-friendly websites and web apps. This portfolio is a reflection of my journey, skills, and the projects I've worked on.
 
+## 🌐 Live Site
+👉 https://vikas-kumar-2004.github.io/Personal-Portfolio/
 
+## 🚀 Built With
+- HTML5, CSS3, JavaScript
+- Tailwind CSS
+- Git & GitHub
 
-## Screenshots
+## 📂 Sections Included
 
-<p float="center">
-    <img src="Screenshots/screencapture.png" width="800">
-</p>
+### 🏠 **Home**
+- A dynamic landing page with a welcome message.
+- Features a call-to-action button like "View My Work" that links to the Projects section.
+- Background animation using CSS or Lottie animations.
 
+### 👨‍💻 **About**
+  _"Hi, I'm vikas kumar , a web developer . I specialize in JavaScript frameworks like React and enjoy creating intuitive user interfaces."_
+- Includes a photo and a downloadable resume.
 
+### 📁 **Projects**
 
-## Author
+1.Tour and Travel Management System
+Full Stack Development
 
-👤 **VASU SOLANKI**
+2.Hospital Management System
+MERN Stack Development
 
-* LinkedIn: [@VASUSOLANKI](https://www.linkedin.com/in/vasusolanki)
-* GitHub: [@VASU-SOLANKI](https://github.com/vasu-solanki)
+3.Food Recipe Application
+React JS Development
