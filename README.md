@@ -31,3 +31,18 @@ MERN Stack Development
 
 3.Food Recipe Application
 React JS Development
+
+### 🛠️ **Skills**
+- Frontend: HTML5, CSS3, JavaScript, React, Tailwind CSS
+- Backend: Node.js, Express, MongoDB
+- Tools: Git, GitHub, VS Code,  Postman
+- Soft Skills: Teamwork, Communication, Problem-solving
+
+
+### 📜 **Certificates**
+- ✅ Full Stack Web  Development Certificate – Udemy
+- ✅ DSA with C++ – Physics Wallah
+- ✅ Intel Industrial training porgram– Intel R
+-  ✅ Basics of SQL–  Great Learning
+-   
+*(Certificates are available in the Certificates section with downloadable/viewable links.)*
