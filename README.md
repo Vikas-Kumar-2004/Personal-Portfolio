@@ -2,8 +2,7 @@
 
 Welcome to my personal portfolio website! I'm a passionate web developer focused on building responsive, user-friendly websites and web apps. This portfolio is a reflection of my journey, skills, and the projects I've worked on.
 
-## 🌐 Live Site
-👉 https://vikas-kumar-2004.github.io/Personal-Portfolio/
+
 
 ## 🚀 Built With
 - HTML5, CSS3, JavaScript
