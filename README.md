@@ -1,4 +1,4 @@
-# 💻 Web Developer Portfolio
+# 💻 Personal Portfolio
 
 Welcome to my personal portfolio website! I'm a passionate web developer focused on building responsive, user-friendly websites and web apps. This portfolio is a reflection of my journey, skills, and the projects I've worked on.
 
